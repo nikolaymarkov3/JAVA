@@ -175,7 +175,7 @@ public class HW6 {
 
         for (int i = 0; i <=9; i++){
 
-            System.out.print(i + ", ");;
+            System.out.print(i + ", ");
         }
 
 
